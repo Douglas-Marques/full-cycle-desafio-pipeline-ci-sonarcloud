@@ -1,0 +1,18 @@
+{
+  "name": "full-cycle-desafio-pipeline-ci-sonarcloud",
+  "version": "1.0.0",
+  "main": "calculate.ts",
+  "repository": "https://github.com/Douglas-Marques/full-cycle-desafio-pipeline-ci-sonarcloud.git",
+  "author": "Douglas-Marques <you@example.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.5",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.4"
+  }
+}
